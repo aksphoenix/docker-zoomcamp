@@ -18,8 +18,7 @@ WHERE DATE(lpep_pickup_datetime) BETWEEN '2025-11-01' AND '2025-11-30'
 ---
 ## Question 4
 
-**Which was the pickup day with the longest trip distance?
-Only consider trips with trip_distance less than 100 miles.**
+**Which was the pickup day with the longest trip distance? Only consider trips with trip_distance `less than 100 miles`.**
 
 ``` sql
 SELECT 
@@ -31,7 +30,7 @@ ORDER BY trip_distance DESC
 LIMIT 1;
 ```
 ## Question 5
-Which was the pickup zone with the largest total amount (sum of all trips) on November 18th, 2025?
+**Which was the pickup zone with the largest total amount (sum of all trips) on `November 18th, 2025`?**
 
 ``` sql
 SELECT 
@@ -47,7 +46,7 @@ LIMIT 1;
 
 ```
 ## Question 6
-For the passengers picked up in the zone named "East Harlem North" in November 2025, which was the drop-off zone that had the largest tip?
+**For the passengers picked up in the zone named `East Harlem North` in November 2025, which was the drop-off zone that had the largest tip?**
 
 ``` sql
 SELECT 
