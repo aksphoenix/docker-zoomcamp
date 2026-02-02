@@ -1,0 +1,40 @@
+id: 04_homework_postgres_taxi_parent
+namespace: zoomcamp
+
+inputs:
+  - id: years
+    type: ARRAY
+    itemType: STRING
+    defaults: ["2021"]
+  - id: months
+    type: ARRAY
+    itemType: STRING
+    defaults: ["01", "02", "03", "04", "05", "06", "07"]
+  - id: taxi_types
+    type: ARRAY
+    itemType: STRING
+    defaults: ["yellow", "green"]
+
+tasks:
+  - id: loop_years
+    type: io.kestra.plugin.core.flow.ForEach
+    values: "{{ inputs.years }}"
+    tasks:
+      - id: loop_months
+        type: io.kestra.plugin.core.flow.ForEach
+        values: "{{ inputs.months }}"
+        tasks:
+          - id: loop_taxis
+            type: io.kestra.plugin.core.flow.ForEach
+            values: "{{ inputs.taxi_types }}"
+            tasks:
+              - id: load_taxi_subflow
+                type: io.kestra.plugin.core.flow.Subflow
+                namespace: zoomcamp
+                flowId: 04_postgres_taxi
+                wait: true
+                transmitFailed: true
+                inputs:
+                  taxi: "{{ taskrun.value }}"                # current taxi (yellow/green)
+                  year: "{{ parents[1].taskrun.value }}"     # current year
+                  month: "{{ parents[0].taskrun.value }}"    # current month
