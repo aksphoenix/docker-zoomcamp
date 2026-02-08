@@ -1,0 +1,45 @@
+id: taxi_row_counts_2020_2021
+namespace: zoomcamp
+description: Counts rows for Yellow/Green 2020 total and Yellow March 2021
+
+tasks:
+  - id: count_yellow_2020
+    type: io.kestra.plugin.jdbc.postgresql.Query
+    sql: |
+      SELECT 'Yellow 2020 Total' AS metric, 
+             COUNT(*) AS row_count
+      FROM public.yellow_tripdata 
+      WHERE filename LIKE 'yellow_tripdata_2020-%'
+        AND filename NOT LIKE '%staging%';
+
+  - id: count_green_2020
+    type: io.kestra.plugin.jdbc.postgresql.Query
+    sql: |
+      SELECT 'Green 2020 Total' AS metric, 
+             COUNT(*) AS row_count
+      FROM public.green_tripdata 
+      WHERE filename LIKE 'green_tripdata_2020-%'
+        AND filename NOT LIKE '%staging%';
+
+  - id: count_yellow_mar_2021
+    type: io.kestra.plugin.jdbc.postgresql.Query
+    sql: |
+      SELECT 'Yellow March 2021' AS metric, 
+             COUNT(*) AS row_count
+      FROM public.yellow_tripdata 
+      WHERE filename = 'yellow_tripdata_2021-03.csv';
+
+  - id: summary
+    type: io.kestra.plugin.core.log.Log
+    message: |
+      Row counts completed:
+      - Yellow 2020: {{ outputs.count_yellow_2020.values.row_count }}
+      - Green 2020: {{ outputs.count_green_2020.values.row_count }}
+      - Yellow Mar 2021: {{ outputs.count_yellow_mar_2021.values.row_count }}
+
+pluginDefaults:
+  - type: io.kestra.plugin.jdbc.postgresql
+    values:
+      url: jdbc:postgresql://pgdatabase:5432/ny_taxi
+      username: root
+      password: root

@@ -1,0 +1,13 @@
+Question 1  Ans  128.3 MiB
+Open the execution of the flow where you ran:
+taxi = yellow
+year = 2020
+month = 12.
+Go to the extract task in the execution view.
+In the right panel, open the Outputs section and look for outputFiles.
+Click the entry for yellow_tripdata_2020-12.csv.
+Kestra shows the file size (in bytes) in the file details dialog.
+
+Question 2 Ans green_tripdata_2020-04.csv
+
+Question 3 Ans 
