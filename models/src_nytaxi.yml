@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: nytaxi
+    schema: nytaxi
+    tables:
+      - name: yellow_raw
+      - name: green_raw
