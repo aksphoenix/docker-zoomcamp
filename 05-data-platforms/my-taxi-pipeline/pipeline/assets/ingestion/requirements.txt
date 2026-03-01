@@ -1,0 +1,7 @@
+# Python dependencies for the taxi trips ingestion asset.  pinned to
+# known-good versions so that the pipeline is reproducible.
+pandas==2.2.0
+requests==2.31.0
+pyarrow==12.0.1
+python-dateutil==2.8.2
+
