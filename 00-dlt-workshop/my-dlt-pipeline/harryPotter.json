@@ -1,0 +1,2882 @@
+{
+    "numFound": 3759,
+    "start": 0,
+    "numFoundExact": true,
+    "num_found": 3759,
+    "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+    "q": "harry potter",
+    "offset": null,
+    "docs": [
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL61027601M",
+            "cover_i": 15155833,
+            "ebook_access": "borrowable",
+            "edition_count": 397,
+            "first_publish_year": 1997,
+            "has_fulltext": true,
+            "ia": [
+                "harrypotterylapi0000rowl_q5r6",
+                "harrypottervefel0000rowl",
+                "isbn_9788204086600",
+                "rbanms.24646.harrypotterphilo000jkro_e4c6",
+                "bwb_W9-DHS-647",
+                "harrypotter01har0000joan",
+                "harrypotterochde0000unse",
+                "harijspotersunfi0000unse",
+                "halibote0000rowl",
+                "harrypotterikami0000unse",
+                "isbn_9783551317254",
+                "isbn_9788000007885",
+                "isbn_6780180353427",
+                "isbn_9757501956008",
+                "harryzzauberboxb0000jkro",
+                "harrypottertome10000jkro",
+                "harrypotterylapi0000unse",
+                "snj.harrypotterphilo0000jkro_t6f3",
+                "snj.harrypotterphilo0001jkro",
+                "snj.harrypotterphilo0000jkro_s9g6",
+                "harrypotterilape0000jkro",
+                "haliboteyumofash0000rowl",
+                "harrypotterphilo0000jkro",
+                "harrypotterepedr0000jkro",
+                "harrypotterogdev0000rowl",
+                "harrypotterkamen0000rowl",
+                "lccn_078073006991",
+                "harrypotterphilo0000jkro_j6k0",
+                "harrypottersorce0000unse",
+                "harrypotteresbol0000rowl",
+                "harrypottersorce0000rowl_a6t2",
+                "harrypotterylapi0000rowl",
+                "harrypotterylapi0000rowl_d7v1",
+                "harrypottermagic0000rowl_p4p3",
+                "harrypotteraleco0000rowl",
+                "harrypottersorce0000rowl_t5a1",
+                "harrypottersorce0000rowl_l6l8",
+                "harrypottersorce0000rowl_i9p5",
+                "harrypottersorce0000rowl_1998",
+                "harrypottersorce0000rowl",
+                "harrypotterylapi0000jkro",
+                "harrypotterphilo0000rowl_d8d4",
+                "harrypotterphilo0000rowl_i7z2",
+                "harriuspotteretp0000rowl",
+                "harrypotterphilo0000rowl_k0s6",
+                "haliboteshenmide0000rowl",
+                "hirparaauraprasa0000rowl",
+                "haripattervasang0000rowl",
+                "areiospoterkaihe00rowl",
+                "harrypotterelapi00jkro",
+                "harrypottersorce00rowl_1",
+                "harrypottersorce00jkro_0",
+                "harrypotterikami0000jkro",
+                "harrypotterylapi00",
+                "haripottatokenja00jkro",
+                "harrypottersorce00rowl",
+                "harrypottersorc00rowl",
+                "harrypottersorce00rowl_0",
+                "harrypotterphilo0000rowl_t2o9",
+                "harrypotterphilo0000rowl_j1k7",
+                "harrypottersorce00jkro",
+                "isbn_9789984053851",
+                "harrypotterylapi00rowl",
+                "harrypotteraguso0000rowl",
+                "garripotterifilo00jkro",
+                "harrypotterundde0000jkro",
+                "harrypotterdhegu0000jkro",
+                "harrypotterphilo0000rowl_u9v4",
+                "harispoterisiris0000jkro",
+                "harripottermaeny0000jkro",
+                "harrypotterlcole0000unse",
+                "harrypotterochde0000unse_c9n9",
+                "harrypotteriharr0000jkro",
+                "harrypotterphilo0000rowl",
+                "harrypottersorce0000rowl_h8m5",
+                "harrypotterundde0000rowl",
+                "harriuspotteretp00jkro",
+                "harrypotterphilo00rowl_044",
+                "harriuspotteretp00rowl",
+                "bdrc-W1KG14543"
+            ],
+            "ia_collection": [
+                "JaiGyan",
+                "ServantsOfKnowledge-Print",
+                "ambslibrary-ol",
+                "americana",
+                "americanuniversity-ol",
+                "bannedbooks",
+                "barryuniversity-ol",
+                "belmont-ol",
+                "binghamton-ol",
+                "bpljordan-ol",
+                "brynmawr-ol",
+                "buddhist-digital-resource-center",
+                "buddhist-digital-resource-center-restricted",
+                "cnusd-ol",
+                "cua-ol",
+                "dartmouthlibrary-ol",
+                "delawarecountydistrictlibrary",
+                "delawarecountydistrictlibrary-ol",
+                "denverpubliclibrary-ol",
+                "drakeuniversity-ol",
+                "goffstownlibrary-ol",
+                "gwulibraries-ol",
+                "hamiltonpubliclibrary-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "ithacacollege-ol",
+                "johnshopkins-ol",
+                "marymount-ol",
+                "miltonpubliclibrary-ol",
+                "occidentalcollegelibrary-ol",
+                "openlibrary-d-ol",
+                "popularchinesebooks",
+                "printdisabled",
+                "randolph-macon-college-ol",
+                "rochester-ol",
+                "salisburyfreelibrary-ol",
+                "spokanepubliclibrary-ol",
+                "the-claremont-colleges-ol",
+                "tulsacc-ol",
+                "uhmauicollege-ol",
+                "unb-ol",
+                "uni-ol",
+                "universityofarizona-ol",
+                "universityofcoloradoboulder-ol",
+                "universityofthewest-ol",
+                "wilsoncollege-ol",
+                "worthingtonlibraries-ol"
+            ],
+            "key": "/works/OL82563W",
+            "language": [
+                "ben",
+                "grc",
+                "eng",
+                "mar",
+                "tur",
+                "spa",
+                "ice",
+                "hrv",
+                "heb",
+                "ara",
+                "afr",
+                "rum",
+                "lav",
+                "dan",
+                "gle",
+                "ger",
+                "ita",
+                "gre",
+                "bul",
+                "pol",
+                "kor",
+                "swe",
+                "vie",
+                "nep",
+                "tib",
+                "kal",
+                "gla",
+                "lit",
+                "ukr",
+                "hun",
+                "per",
+                "hin",
+                "urd",
+                "jpn",
+                "wel",
+                "tha",
+                "fre",
+                "rus",
+                "yid",
+                "alb",
+                "cat",
+                "dut",
+                "cze",
+                "ltz",
+                "nor",
+                "chi",
+                "fin",
+                "por",
+                "lat"
+            ],
+            "lending_edition_s": "OL38565767M",
+            "lending_identifier_s": "harrypotterylapi0000rowl_q5r6",
+            "public_scan_b": false,
+            "title": "Harry Potter and the Philosopher's Stone"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL26378158M",
+            "cover_i": 15158660,
+            "ebook_access": "printdisabled",
+            "edition_count": 144,
+            "first_publish_year": 2007,
+            "has_fulltext": true,
+            "ia": [
+                "harrypotteriinsy0000unse_r7s9",
+                "bwb_W8-BSR-221_t9s7",
+                "harrypotter7undd0000joan",
+                "harrypottereidon0000jkro",
+                "garripotteridary0000jkro",
+                "haliboteyusiwang0000rowl",
+                "haliboteyusiwang0007rowl",
+                "isbn_9780606379298",
+                "bwb_P9-CCG-593",
+                "isbn_9780545010221_z4n9",
+                "isbn_9780545010221_i0l2",
+                "isbn_9780545010221_r1m3",
+                "isbn_9780545010221_x5i4",
+                "harrypotter07har0000joan",
+                "rbanms.24651.harrypotterdeath0000jkro_e6z9",
+                "harrypottereosta0000jkro",
+                "harrypotterunddi0000jkro_a5b3",
+                "harrypotterdeath0000rowl_n2u6",
+                "harrypotterdeath0000rowl_m0z4",
+                "harrypotterdeath0000rowl_e0l6",
+                "harrypotterdeath0000jkro_w1s3",
+                "harrypotterdeath0000rowl_c0f9",
+                "harrypotterdeath0000rowl_z5e5",
+                "harrypotteretles0000jkro",
+                "harrypotteriinsy0000jkro",
+                "harrypotterylasr0000unse",
+                "isbn_9780545010221",
+                "harrypotterylasr00rowl",
+                "harrypotteriinsy0000unse",
+                "isbn_9781606868829",
+                "harrypottereidon0000rowl",
+                "haripoteridasikv0000rowl",
+                "snj.harrypotterdeath0001unse",
+                "harrypotterdeath0000rowl_a4k7",
+                "isbn_9780786296651",
+                "harrypotterdeath00rowl",
+                "harrypotterdeath0000rowl_n2u6",
+                "harrypotterdeath2009rowl",
+                "garripotteridary0000rowl",
+                "harrypotteretles0000rowl"
+            ],
+            "ia_collection": [
+                "JaiGyan",
+                "ServantsOfKnowledge-Print",
+                "americana",
+                "americanuniversity-ol",
+                "bannedbooks",
+                "barryuniversity-ol",
+                "belmont-ol",
+                "bpljordan-ol",
+                "cnusd-ol",
+                "cua-ol",
+                "dartmouthlibrary-ol",
+                "delawarecountydistrictlibrary",
+                "delawarecountydistrictlibrary-ol",
+                "denverpubliclibrary-ol",
+                "drakeuniversity-ol",
+                "framingham-ol",
+                "goffstownlibrary-ol",
+                "gwulibraries-ol",
+                "internetarchivebooks",
+                "ithacacollege-ol",
+                "johnshopkins-ol",
+                "marygrovecollege",
+                "marymount-ol",
+                "occidentalcollegelibrary-ol",
+                "openlibrary-d-ol",
+                "popularchinesebooks",
+                "printdisabled",
+                "rochester-ol",
+                "salisburyfreelibrary-ol",
+                "spokanepubliclibrary-ol",
+                "the-claremont-colleges-ol",
+                "tulsacc-ol",
+                "uhmauicollege-ol",
+                "unb-ol",
+                "uni-ol",
+                "universityofarizona-ol",
+                "universityofcoloradoboulder-ol",
+                "universityofoklahoma-ol",
+                "universityofthewest-ol",
+                "wilsoncollege-ol",
+                "worthingtonlibraries-ol"
+            ],
+            "key": "/works/OL82586W",
+            "language": [
+                "geo",
+                "ben",
+                "eng",
+                "spa",
+                "heb",
+                "ara",
+                "dan",
+                "ger",
+                "ita",
+                "bul",
+                "gre",
+                "pol",
+                "est",
+                "hun",
+                "hin",
+                "jpn",
+                "glg",
+                "fre",
+                "rus",
+                "cat",
+                "cze",
+                "chi",
+                "por"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter and the Deathly Hallows"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL26234270M",
+            "cover_i": 10580435,
+            "ebook_access": "borrowable",
+            "edition_count": 279,
+            "first_publish_year": 1999,
+            "has_fulltext": true,
+            "ia": [
+                "bdrc-W8LS66814",
+                "rbanms.24648.harrypotterpriso000jkro_w7j2",
+                "bwb_S0-ATO-987",
+                "isbn_9789994030149",
+                "harrypotter03har0000joan",
+                "harrypotterielpr0000unse",
+                "haliboteyuazikab0000rowl",
+                "isbn_9788650509739",
+                "isbn_9786041008465_n2s2",
+                "harrypotter0000jkro_p4k3",
+                "harrypotteryelpr0000unse",
+                "harrypotterveazk0000rowl",
+                "snj.harrypotterpriso0000rowl_d5x1",
+                "harrypotteriwiez0000jkro",
+                "harrypotteriwiez0000joan",
+                "harrypotterpriso0000unkn",
+                "isbn_8934974048480",
+                "harrypotterpriso0000rowl_n3b9",
+                "harrypotterpriso0000rowl_j5w3",
+                "harrypotterpriso00rowl",
+                "bwb_W8-BSR-222",
+                "harrypotterendeg0000rowl",
+                "isbn_9781551926728",
+                "isbn_9781551927329",
+                "harrypotterpriso0000jkro",
+                "harrypottermagic0000rowl_w0z6",
+                "harrypotterpriso0000unse_k7c3",
+                "haripattervazind0000rowl",
+                "harrypotteretlep0000unse",
+                "harrypotterpriso0000rowl_v8j4",
+                "harrypotteretlep0000rowl_w4j0",
+                "harrypotterdheib0000rowl",
+                "harrypotterundde0000jkro_v3j2",
+                "haliboteazikaban0000rowl",
+                "harrypotterendeg0000jkro",
+                "harrypotteryelpr0000rowl_p6x6",
+                "harrypotteryelpr0000jkro",
+                "harrypottersipri0000unse",
+                "harrypotteryelpr0000jkro_h0c7",
+                "harrypotterpriso0000jkro_l6y6",
+                "harrypotterpriso0000rowl_b3s5",
+                "harrypotterpriso00jkro_3",
+                "harrypotterpriso0000rowl_i0j7",
+                "harrypotterpriso0000rowl",
+                "harrypotterpriso05rowl",
+                "harrypotterpris00rowl",
+                "harrypotterprison00rowl",
+                "harpotttoazukaba0000rowl",
+                "harrypotteretlep0000rowl_t2u0",
+                "harrypotteryelpr00jkro",
+                "harrypotteryelpr0000rowl_u2s9",
+                "harrypotterpriso0000rowl_u4t4",
+                "harrypotterpriso00rowl_0",
+                "harrypotterandth0000jkro",
+                "isbn_9780747546290",
+                "harrypotterpriso0000rowl_d0i6",
+                "harrypotterpriso0000rowl_v6h7",
+                "harrypotterpriso0000rowl_g2m5",
+                "harrypotterpriso0000rowl_e2m8",
+                "harrypotterpriso0000rowl_z4b1",
+                "harrypotteryelpr0000rowl_j2c9",
+                "harrypotteryelpr0003rowl",
+                "harrypotteryelpr0000rowl",
+                "garripotteriuzni0000rowl",
+                "harrypotterpriso0000rowl_y6c2",
+                "harrypotterpriso0000rowl_a8k5",
+                "harrypotterpriso0000rowl_l8l3",
+                "harrypotterogfan0000rowl",
+                "harrypotterpriso0000rowl_y5h4"
+            ],
+            "ia_collection": [
+                "California-State-Suggested-Reading",
+                "JaiGyan",
+                "ServantsOfKnowledge-Print",
+                "americana",
+                "bannedbooks",
+                "books",
+                "buddhist-digital-resource-center",
+                "buddhist-digital-resource-center-restricted",
+                "inlibrary",
+                "internetarchivebooks",
+                "marygrovecollege",
+                "popularchinesebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL82536W",
+            "language": [
+                "geo",
+                "ben",
+                "nob",
+                "eng",
+                "mar",
+                "tur",
+                "spa",
+                "heb",
+                "ara",
+                "rum",
+                "ger",
+                "arm",
+                "ita",
+                "gre",
+                "bul",
+                "pol",
+                "kor",
+                "swe",
+                "vie",
+                "tib",
+                "lit",
+                "hun",
+                "srp",
+                "hin",
+                "per",
+                "jpn",
+                "tha",
+                "urd",
+                "fre",
+                "rus",
+                "alb",
+                "cat",
+                "dut",
+                "cze",
+                "chi",
+                "por"
+            ],
+            "lending_edition_s": "OL48101764M",
+            "lending_identifier_s": "bdrc-W8LS66814",
+            "public_scan_b": false,
+            "title": "Harry Potter and the Prisoner of Azkaban"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL25683482M",
+            "cover_i": 12059372,
+            "ebook_access": "printdisabled",
+            "edition_count": 242,
+            "first_publish_year": 2000,
+            "has_fulltext": true,
+            "ia": [
+                "harrypotterogild0000jkro",
+                "harrypotterendie0000jkro",
+                "harrypotterohniv0000rowl",
+                "harrypottericzar0000unse",
+                "harrypottersipoc0000jkro",
+                "haliboteyuhuoyan0000rowl",
+                "bwb_S0-BKQ-107",
+                "snj.harrypottergoble0001rowl",
+                "harrypottereocal0000jkro",
+                "harrypotteryelcl0000unse",
+                "bwb_P8-BOL-606",
+                "hocharipoterkait0000rowl",
+                "rbanms.24649.harrypottergoble0000jkro_w1y9",
+                "harrypottergoble0000unse_m7x4",
+                "harrypottergoble0000unse_r9q3",
+                "harrypottergoble0000jkro_t3n4",
+                "harrypottergoble0000unse_l3b9",
+                "harrypotterveate0000rowl",
+                "harrypottergoble0000jkro",
+                "harispoterisirug0000rowl",
+                "harrypottergoble0000rowl_m3z2",
+                "harrypotteretlac0000rowl_l8z4",
+                "harrypottergoble0000unse",
+                "harrypottergoble0000rowl_g8u7",
+                "harrypottergoble00jkro",
+                "harrypottergoble0000rowl_f1q1",
+                "harrypotterundde00rowl",
+                "harrypotteretlac0000jkro",
+                "harrypottergobl00rowl",
+                "harrypottergob00rowl",
+                "harrypotteryelcl00jkro",
+                "harrypotteretlac0000rowl",
+                "isbn_9780747574507",
+                "garripotterikubo00rowl",
+                "harrypottergoble00rowl",
+                "harrypottergoble0000rowl_o3u1",
+                "harrypotteretlac0000rowl_q9p8",
+                "halibotehuobeide00rowl",
+                "harrypottericzar0000unse_h2w5",
+                "harrypotterendev0000unse",
+                "harrypottergoble0000rowl_u7x1",
+                "harrypottergoble0000rowl_q6c6",
+                "harrypottergoble0000rowl",
+                "bwb_C0-BHE-773",
+                "harrypotteryelca0000rowl",
+                "harrypottergoble0000jkro_e6v5",
+                "harrypottergoble0000rowl_x6i6",
+                "harrypottergoble0000rowl_k3h6",
+                "harrypottergoble0000rowl_b4i1",
+                "harrypottergoble0000rowl_f7d0",
+                "harrypottergoble0000rowl_y3w0",
+                "harrypottergoble0000rowl_r1t8",
+                "harrypottergoble0000rowl_q0k2",
+                "harrypottergoble0000rowl_z6r7",
+                "harrynbsppottery0004jkro",
+                "harrypotteryelcl0000jkro",
+                "potterharryfireo0000jkro",
+                "harrypottereilca0000jkro",
+                "harrypotteretlac0000rowl_p7r8",
+                "snj.harrypottergoble-2.0001rowl/"
+            ],
+            "ia_collection": [
+                "California-State-Suggested-Reading",
+                "JaiGyan",
+                "ServantsOfKnowledge-Print",
+                "americana",
+                "bannedbooks",
+                "books",
+                "bpljordan-ol",
+                "brynmawr-ol",
+                "delawarecountydistrictlibrary",
+                "goffstownlibrary-ol",
+                "hamiltonpubliclibrary-ol",
+                "internetarchivebooks",
+                "marygrovecollege",
+                "miltonpubliclibrary-ol",
+                "openlibrary-d-ol",
+                "popularchinesebooks",
+                "printdisabled",
+                "unb-ol",
+                "universityofthewest-ol"
+            ],
+            "key": "/works/OL82560W",
+            "language": [
+                "ben",
+                "eng",
+                "mar",
+                "tur",
+                "spa",
+                "heb",
+                "ara",
+                "rum",
+                "afr",
+                "dan",
+                "ger",
+                "gre",
+                "arm",
+                "ita",
+                "bul",
+                "pol",
+                "kor",
+                "swe",
+                "vie",
+                "lit",
+                "hun",
+                "urd",
+                "hin",
+                "jpn",
+                "tha",
+                "fre",
+                "rus",
+                "alb",
+                "dut",
+                "cze",
+                "nor",
+                "chi",
+                "por"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter and the Goblet of Fire"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL25662116M",
+            "cover_i": 15158666,
+            "ebook_access": "printdisabled",
+            "edition_count": 247,
+            "first_publish_year": 2003,
+            "has_fulltext": true,
+            "ia": [
+                "isbn_9787020086627_z3i9",
+                "harrypotteraniph0000unse",
+                "harrypotterochfe0000na",
+                "harrypotteriordi0000jkro",
+                "harrypotterorder0000rowl_o5k6",
+                "harrypotterorder0000rowl_f8o5",
+                "haliboteyufenghu0005rowl",
+                "haliboteyufenghu0000rowl",
+                "isbn_9780329379278",
+                "hairparaauramypa0000rowl",
+                "harrypotterylaor0000unse_h7v4",
+                "rbanms.24748.harrypotterorder0005rowl",
+                "harrypotterylaor0000gemm",
+                "isbn_9789645757746",
+                "harrypotter5undd0000joan",
+                "harrypotter05har0000joan",
+                "harrypotterorder0000jkro_a2x7",
+                "harrypotterorder0000jkro",
+                "harrypotterogfni0000unse",
+                "harrypotteresfon0000rowl",
+                "harispoterisirfe0000rowl",
+                "harrypotterorder0000rowl_j7r2",
+                "harrypotterylaor0000jkro",
+                "harrynbsppottery0000jkro",
+                "harrynbsppottery0005jkro",
+                "harrypotterorder0000rowl_h2t4",
+                "harrypotterorder0000rowl_h7u3",
+                "harrypotterorder2004rowl",
+                "harrypotterorder0000rowl_g1n2",
+                "harrypotterorder0000rowl_o5a3",
+                "harripotteriorde0000rowl",
+                "harrypotterorder00rowl",
+                "harrypotterorder0000rowl_f7t9",
+                "harrypotteretlor0000rowl",
+                "harrypotterundde0000rowl_z3l1",
+                "harptirvamafiliq0000rowl",
+                "harrypotterorder00rowl_0",
+                "harrypotterorde00rowl_0",
+                "snj.harrypotterorder0001rowl_v0o5",
+                "snj.harrypotterorder0001rowl",
+                "harrypotterorder0000rowl_s1p4",
+                "harrypotterorder0000rowl_p8k0",
+                "harrypotterylaor0000rowl",
+                "harrypottero00rowl",
+                "harypotterizakon0000rowl",
+                "harrypotterylaor0000rowl_u7k6",
+                "harrypotterylaor0000unse",
+                "harrypotterorde00jkro",
+                "harrypotterorde00rowl",
+                "harrypotterorder0000rowl_y4y8"
+            ],
+            "ia_collection": [
+                "California-State-Suggested-Reading",
+                "JaiGyan",
+                "ServantsOfKnowledge-Print",
+                "americana",
+                "bannedbooks",
+                "books",
+                "delawarecountydistrictlibrary",
+                "internetarchivebooks",
+                "marygrovecollege",
+                "popularchinesebooks",
+                "printdisabled",
+                "toronto"
+            ],
+            "key": "/works/OL82548W",
+            "language": [
+                "geo",
+                "ben",
+                "eng",
+                "tur",
+                "spa",
+                "hrv",
+                "heb",
+                "ara",
+                "rum",
+                "dan",
+                "ger",
+                "arm",
+                "ita",
+                "bul",
+                "pol",
+                "kor",
+                "swe",
+                "vie",
+                "lit",
+                "hun",
+                "ukr",
+                "per",
+                "hin",
+                "jpn",
+                "tha",
+                "fre",
+                "rus",
+                "cat",
+                "dut",
+                "cze",
+                "chi",
+                "por"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter and the Order of the Phoenix"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_i": 10716273,
+            "ebook_access": "printdisabled",
+            "edition_count": 177,
+            "first_publish_year": 2005,
+            "has_fulltext": true,
+            "ia": [
+                "isbn_9789749907719",
+                "rbanms.24650.harrypotterhalfb000jkro_r2k5",
+                "harrypottervemel0000jkro",
+                "harrypotteryelmi0000rowl",
+                "isbn_9788532523105",
+                "isbn_9785389077911",
+                "haliboteyuhunxue0000rowl",
+                "isbn_9788478889945",
+                "bwb_S0-DRB-357",
+                "isbn_9788183222082",
+                "isbn_8934974076780",
+                "harrypotteretles0000jkro_c4k4",
+                "garripotteriprin0000rowl",
+                "harrypotter06har0000joan",
+                "harrypotter6undd0000jkro",
+                "harrypotterhalfb0000rowl_u7c5",
+                "harrypotterhalfb00jkro_2",
+                "harrypotterhalfb0006rowl",
+                "harrypotterhalfb0000rowl_a0j0",
+                "harrypotterhalfb0000jkro_z6k6",
+                "harrypotterhalfb0000rowl_v5f6",
+                "harrypotterhalfb0000rowl_j1n7",
+                "harrypottereopri0000jkro",
+                "harrypotteretlep0000jkro",
+                "isbn_9788372781680",
+                "harrypotterhalfb0000rowl",
+                "harrypotterhalfb2005rowl",
+                "harrypotterhalf00rowl",
+                "isbn_074758110x",
+                "harrypotterhalf00rowl_0",
+                "halibotehunxuewa0000rowl",
+                "harrypotterhalfb0000jkro",
+                "harrypotterhalfbrow00rowl",
+                "harrypotterundde0000unse",
+                "harrypotterhalfb0000rowl_r5b4",
+                "harrypotteretlep0000rowl",
+                "harrypottereoeni0000rowl",
+                "harrypotteretlep0000rowl_q4e4",
+                "harrypotterhalfb0000rowl_g4f8",
+                "isbn_9780606348539",
+                "harrypotterhalfb0000rowl_f5b2"
+            ],
+            "ia_collection": [
+                "California-State-Suggested-Reading",
+                "JaiGyan",
+                "ServantsOfKnowledge-Print",
+                "americana",
+                "bannedbooks",
+                "books",
+                "brynmawr-ol",
+                "cnusd-ol",
+                "delawarecountydistrictlibrary",
+                "hamiltonpubliclibrary-ol",
+                "internetarchivebooks",
+                "marygrovecollege",
+                "miltonpubliclibrary-ol",
+                "openlibrary-d-ol",
+                "popularchinesebooks",
+                "printdisabled",
+                "randolph-macon-college-ol",
+                "unb-ol",
+                "uni-ol"
+            ],
+            "key": "/works/OL82565W",
+            "language": [
+                "ben",
+                "eng",
+                "tur",
+                "spa",
+                "hrv",
+                "heb",
+                "ara",
+                "ger",
+                "ita",
+                "bul",
+                "gre",
+                "pol",
+                "vie",
+                "hun",
+                "per",
+                "hin",
+                "jpn",
+                "tha",
+                "fre",
+                "rus",
+                "chi",
+                "por"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter and the Half-Blood Prince"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL59041259M",
+            "cover_i": 15158664,
+            "ebook_access": "printdisabled",
+            "edition_count": 305,
+            "first_publish_year": 1998,
+            "has_fulltext": true,
+            "ia": [
+                "snj.harrypotter0000jkro_e1f9",
+                "harptirvaufrahia0000rowl",
+                "harrypotterochhe0000unse",
+                "harrypotterilaca0000rowl",
+                "harrypotterchamb0000na",
+                "harrypotteroghem0000jkro",
+                "rbanms.24647.harrypotterchamb0000jkro_v5z1",
+                "harrypotterchamb0000jkro_w5l2",
+                "isbn_9788380082137",
+                "isbn_9788498386592",
+                "isbn_9780329209742",
+                "isbn_9786041008465",
+                "harrypotteretlac0000unse",
+                "isbn_9788478885558",
+                "harrypotterchamb0002rowl",
+                "herrypotterchamb0000jkro",
+                "harrypottertome20000jkro",
+                "harrypotter02har0000joan",
+                "harrypotterunddi0000jkro",
+                "harrypottersicam0000jkro",
+                "garripotteritana0000jkro",
+                "harrypottertajem0000rowl_v2q1",
+                "harrypotterchamb0000rowl_j7y0",
+                "harrypotterchamb0000rowl_b8r2",
+                "haliboteyumishi0000rowl",
+                "harrypotterchamb0000jkro",
+                "harrypotter0000unse",
+                "harrypottertajem0000rowl",
+                "harrypotterchamb0000rowl_i9i5",
+                "harrypottermagic0000rowl",
+                "harrypotterylacm0000jkro_g1c6_20thed",
+                "harrypotterylacm0000jkro_t6b0",
+                "harrypotterylacm0000jkro",
+                "harrypotterunddi0000rowl",
+                "harrypotterchamb0000rowl_f8b1",
+                "isbn_9780439064866",
+                "harrypotterchamb0000rowl_e1h5",
+                "harrypotterchamb0000rowl_i3d9",
+                "harrypotterchamb05rowl",
+                "harrypotteretlac00rowl",
+                "harrypotterchamb2000rowl",
+                "harrypotterelaca0000unse_o3s0",
+                "harrypottercham00rowl",
+                "harrypotterchamb02rowl",
+                "harrypotterchamb0000rowl_j9y1",
+                "harrypotterchamb00rowl",
+                "garripotteritana0000rowl",
+                "harpotttohimitsu0000rowl",
+                "harrypotterchamb00rowl_0",
+                "isbn_9789573317586",
+                "harrypotterylaca00rowl",
+                "harrypotterchamb0000rowl_z6z7",
+                "isbn_9780747574484",
+                "harrypottercham00rowl_75d",
+                "harrypotterchamb0000rowl_q8t2",
+                "harrypotterylaca0000rowl",
+                "harrypotterchamb0000rowl_g4e1",
+                "harrypotterchamb0000rowl",
+                "harrypotterylaca00jkro_0",
+                "harrypotterharry0000jkro",
+                "harrypotterchamb0000rowl_n1v0",
+                "harrypotterchamb0000rowl_c5y5",
+                "harrypotterchamb0000jkro_l6c0",
+                "harrypotterchamb0000rowl_n8q4",
+                "bdrc-W1KG14545"
+            ],
+            "ia_collection": [
+                "JaiGyan",
+                "ServantsOfKnowledge-Print",
+                "ambslibrary-ol",
+                "americana",
+                "bannedbooks",
+                "belmont-ol",
+                "binghamton-ol",
+                "bpljordan-ol",
+                "brynmawr-ol",
+                "buddhist-digital-resource-center",
+                "buddhist-digital-resource-center-restricted",
+                "cnusd-ol",
+                "cua-ol",
+                "dartmouthlibrary-ol",
+                "delawarecountydistrictlibrary",
+                "delawarecountydistrictlibrary-ol",
+                "denverpubliclibrary-ol",
+                "drakeuniversity-ol",
+                "goffstownlibrary-ol",
+                "hamiltonpubliclibrary-ol",
+                "internetarchivebooks",
+                "ithacacollege-ol",
+                "johnshopkins-ol",
+                "miltonpubliclibrary-ol",
+                "openlibrary-d-ol",
+                "printdisabled",
+                "randolph-macon-college-ol",
+                "rochester-ol",
+                "the-claremont-colleges-ol",
+                "tulsacc-ol",
+                "uhmauicollege-ol",
+                "unb-ol",
+                "uni-ol",
+                "universityofcoloradoboulder-ol",
+                "worthingtonlibraries-ol"
+            ],
+            "key": "/works/OL82537W",
+            "language": [
+                "geo",
+                "eng",
+                "mar",
+                "tur",
+                "spa",
+                "heb",
+                "ara",
+                "rum",
+                "dan",
+                "ger",
+                "arm",
+                "ita",
+                "gre",
+                "bul",
+                "pol",
+                "kor",
+                "swe",
+                "vie",
+                "tib",
+                "lit",
+                "ukr",
+                "hun",
+                "per",
+                "hin",
+                "urd",
+                "jpn",
+                "tha",
+                "fre",
+                "rus",
+                "alb",
+                "cat",
+                "dut",
+                "cze",
+                "chi",
+                "fin",
+                "por",
+                "lat"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter and the Chamber of Secrets"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL26801911M",
+            "cover_i": 8457523,
+            "ebook_access": "no_ebook",
+            "edition_count": 16,
+            "first_publish_year": 1999,
+            "has_fulltext": false,
+            "key": "/works/OL14981609W",
+            "language": [
+                "eng",
+                "ger"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter (series) 1-7"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 2,
+            "first_publish_year": 2001,
+            "has_fulltext": false,
+            "key": "/works/OL21385222W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL7983102A"
+            ],
+            "author_name": [
+                "Warner Bros. Entertainment Inc"
+            ],
+            "cover_edition_key": "OL28267487M",
+            "cover_i": 10195373,
+            "ebook_access": "borrowable",
+            "edition_count": 1,
+            "first_publish_year": 2007,
+            "has_fulltext": true,
+            "ia": [
+                "harrypotterposte0000unse"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL20874116W",
+            "language": [
+                "eng"
+            ],
+            "lending_edition_s": "OL28267487M",
+            "lending_identifier_s": "harrypotterposte0000unse",
+            "public_scan_b": false,
+            "title": "Harry Potter poster annual 2008"
+        },
+        {
+            "author_key": [
+                "OL5231739A",
+                "OL7294929A",
+                "OL23919A"
+            ],
+            "author_name": [
+                "Jack Thorne",
+                "John Tiffany",
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL27282400M",
+            "cover_i": 8763851,
+            "ebook_access": "printdisabled",
+            "edition_count": 35,
+            "first_publish_year": 2001,
+            "has_fulltext": true,
+            "ia": [
+                "harrypotteryelle0000unse",
+                "harrypottercurse0000rowl_g5s2",
+                "garripotteriprok0000rowl",
+                "harrypotteryelle0000rowl",
+                "harrypottercurse0000thor_s5v0"
+            ],
+            "ia_collection": [
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL17360811W",
+            "language": [
+                "spa",
+                "ger",
+                "fre",
+                "rus",
+                "pol",
+                "por",
+                "chi",
+                "bos",
+                "eng",
+                "ukr"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter and the Cursed Child"
+        },
+        {
+            "author_key": [
+                "OL1973082A"
+            ],
+            "author_name": [
+                "Joan Moloney"
+            ],
+            "cover_i": 8244695,
+            "ebook_access": "printdisabled",
+            "edition_count": 1,
+            "first_publish_year": 2003,
+            "has_fulltext": true,
+            "ia": [
+                "harrypotterdelux00"
+            ],
+            "ia_collection": [
+                "bannedbooks",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL17920096W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Deluxe Coloring Book"
+        },
+        {
+            "author_key": [
+                "OL2843353A"
+            ],
+            "author_name": [
+                "Drew Struzan"
+            ],
+            "cover_edition_key": "OL24209112M",
+            "cover_i": 6509920,
+            "ebook_access": "borrowable",
+            "edition_count": 1,
+            "first_publish_year": 2001,
+            "has_fulltext": true,
+            "ia": [
+                "harrypottersorce00newy"
+            ],
+            "ia_collection": [
+                "americana",
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled",
+                "stmaryscountylibrary",
+                "universityofoklahoma-ol"
+            ],
+            "key": "/works/OL15141632W",
+            "language": [
+                "eng"
+            ],
+            "lending_edition_s": "OL24209112M",
+            "lending_identifier_s": "harrypottersorce00newy",
+            "public_scan_b": false,
+            "title": "Harry Potter and the sorcerer's stone poster book"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL27279750M",
+            "cover_i": 8761929,
+            "ebook_access": "no_ebook",
+            "edition_count": 11,
+            "first_publish_year": 1999,
+            "has_fulltext": false,
+            "key": "/works/OL8460139W",
+            "language": [
+                "fre",
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter (series) 1-4"
+        },
+        {
+            "author_key": [
+                "OL11174076A"
+            ],
+            "author_name": [
+                "Adele Books"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2019,
+            "has_fulltext": false,
+            "key": "/works/OL30530361W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL3139877A"
+            ],
+            "author_name": [
+                "Felicity Baker"
+            ],
+            "cover_edition_key": "OL31402157M",
+            "cover_i": 10515161,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2016,
+            "has_fulltext": false,
+            "key": "/works/OL23577451W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter, A Cinematic Guide (e-Book)"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL28302550M",
+            "cover_i": 10229037,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2013,
+            "has_fulltext": false,
+            "key": "/works/OL20895240W",
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL9803618A"
+            ],
+            "author_name": [
+                "Edition Coloriage Hp"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 55,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL25926206W",
+            "language": [
+                "fre"
+            ],
+            "public_scan_b": false,
+            "title": "Livre de Coloriage Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL5303929A",
+                "OL1401131A"
+            ],
+            "author_name": [
+                "Kevin Wilson",
+                "Matthew Reinhart"
+            ],
+            "cover_edition_key": "OL27815925M",
+            "cover_i": 9211955,
+            "ebook_access": "no_ebook",
+            "edition_count": 6,
+            "first_publish_year": 2018,
+            "has_fulltext": false,
+            "key": "/works/OL20569879W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL7829847A"
+            ],
+            "author_name": [
+                "Rick DeMonico"
+            ],
+            "cover_edition_key": "OL24957414M",
+            "cover_i": 6984750,
+            "ebook_access": "borrowable",
+            "edition_count": 3,
+            "first_publish_year": 2001,
+            "has_fulltext": true,
+            "ia": [
+                "harrypotterposte00scho"
+            ],
+            "ia_collection": [
+                "denverpubliclibrary-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled",
+                "stmaryscountylibrary"
+            ],
+            "key": "/works/OL16058211W",
+            "language": [
+                "eng"
+            ],
+            "lending_edition_s": "OL24957414M",
+            "lending_identifier_s": "harrypotterposte00scho",
+            "public_scan_b": false,
+            "subtitle": "Hogwarts Through the Years",
+            "title": "Harry Potter Poster Book"
+        },
+        {
+            "author_key": [
+                "OL7288845A"
+            ],
+            "author_name": [
+                "Eliezer Yudkowsky"
+            ],
+            "cover_edition_key": "OL25929351M",
+            "cover_i": 8044459,
+            "ebook_access": "public",
+            "edition_count": 1,
+            "first_publish_year": 2015,
+            "has_fulltext": true,
+            "ia": [
+                "hpmor"
+            ],
+            "ia_collection": [
+                "community",
+                "opensource"
+            ],
+            "key": "/works/OL17351743W",
+            "language": [
+                "eng"
+            ],
+            "lending_edition_s": "OL25929351M",
+            "lending_identifier_s": "hpmor",
+            "public_scan_b": true,
+            "title": "Harry Potter and the Methods of Rationality"
+        },
+        {
+            "author_key": [
+                "OL11288710A"
+            ],
+            "author_name": [
+                "lina wizar"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL30862567W",
+            "language": [
+                "ger"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Malbuch"
+        },
+        {
+            "author_key": [
+                "OL2812708A"
+            ],
+            "author_name": [
+                "Andrews McMeel Publishing"
+            ],
+            "cover_edition_key": "OL7921990M",
+            "cover_i": 469904,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2004,
+            "has_fulltext": false,
+            "key": "/works/OL8435901W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "ebook_access": "printdisabled",
+            "edition_count": 1,
+            "first_publish_year": 2007,
+            "has_fulltext": true,
+            "ia": [
+                "bwb_P9-CCG-593"
+            ],
+            "ia_collection": [
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL43069969W",
+            "public_scan_b": false,
+            "title": "Harry potter"
+        },
+        {
+            "author_key": [
+                "OL6959809A"
+            ],
+            "author_name": [
+                "Giselle Liza Anatol"
+            ],
+            "cover_edition_key": "OL3563840M",
+            "cover_i": 186699,
+            "ebook_access": "printdisabled",
+            "edition_count": 1,
+            "first_publish_year": 2003,
+            "has_fulltext": true,
+            "ia": [
+                "isbn_9780313320675"
+            ],
+            "ia_collection": [
+                "americanuniversity-ol",
+                "belmont-ol",
+                "binghamton-ol",
+                "cua-ol",
+                "gwulibraries-ol",
+                "internetarchivebooks",
+                "johnshopkins-ol",
+                "kalamazoocollege-ol",
+                "printdisabled",
+                "randolph-macon-college-ol",
+                "riceuniversity-ol",
+                "rochester-ol",
+                "the-claremont-colleges-ol",
+                "unb-ol",
+                "uni-ol",
+                "universityofarizona-ol",
+                "universityofcoloradoboulder-ol",
+                "universityofoklahoma-ol",
+                "wilsoncollege-ol"
+            ],
+            "key": "/works/OL17186023W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Reading Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL28967549M",
+            "cover_i": 13729612,
+            "ebook_access": "no_ebook",
+            "edition_count": 8,
+            "first_publish_year": 2000,
+            "has_fulltext": false,
+            "key": "/works/OL21190029W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Boxed Set"
+        },
+        {
+            "author_key": [
+                "OL3818392A",
+                "OL7277607A"
+            ],
+            "author_name": [
+                "David Baggett",
+                "Shawn E. Klein"
+            ],
+            "cover_edition_key": "OL8019068M",
+            "cover_i": 604805,
+            "ebook_access": "printdisabled",
+            "edition_count": 1,
+            "first_publish_year": 2004,
+            "has_fulltext": true,
+            "ia": [
+                "harrypotterphilo00bagg"
+            ],
+            "ia_collection": [
+                "binghamton-ol",
+                "cua-ol",
+                "dartmouthlibrary-ol",
+                "internetarchivebooks",
+                "occidentalcollegelibrary-ol",
+                "printdisabled",
+                "rochester-ol",
+                "stmaryscountylibrary",
+                "tulsacc-ol",
+                "unb-ol",
+                "worthingtonlibraries-ol"
+            ],
+            "key": "/works/OL16579402W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter and philosophy"
+        },
+        {
+            "author_key": [
+                "OL9646283A"
+            ],
+            "author_name": [
+                "Edition BH"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 5,
+            "first_publish_year": 2021,
+            "has_fulltext": false,
+            "key": "/works/OL25544021W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Carnet Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL60671288M",
+            "cover_i": 15144628,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2025,
+            "has_fulltext": false,
+            "key": "/works/OL44411220W",
+            "language": [
+                "pol"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter p"
+        },
+        {
+            "author_key": [
+                "OL7037362A"
+            ],
+            "author_name": [
+                "Tanis Gray"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL21914335W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL9635531A"
+            ],
+            "author_name": [
+                "Maik Weber"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2021,
+            "has_fulltext": false,
+            "key": "/works/OL35878128W",
+            "language": [
+                "ger"
+            ],
+            "public_scan_b": false,
+            "title": "Farben Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL2703403A"
+            ],
+            "author_name": [
+                "Scholastic Inc."
+            ],
+            "cover_edition_key": "OL26488227M",
+            "cover_i": 8266548,
+            "ebook_access": "printdisabled",
+            "edition_count": 1,
+            "first_publish_year": 2001,
+            "has_fulltext": true,
+            "ia": [
+                "harrypotterfunbo00scho"
+            ],
+            "ia_collection": [
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL17913253W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Fun Book"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL7511359M",
+            "cover_i": 13845538,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 1998,
+            "has_fulltext": false,
+            "key": "/works/OL34958254W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL3521187A"
+            ],
+            "author_name": [
+                "Bettina Grabis"
+            ],
+            "cover_edition_key": "OL12970778M",
+            "cover_i": 3272899,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2002,
+            "has_fulltext": false,
+            "key": "/works/OL9512761W",
+            "public_scan_b": false,
+            "title": "Harry Potter. Sticken"
+        },
+        {
+            "author_key": [
+                "OL1401131A"
+            ],
+            "author_name": [
+                "Matthew Reinhart"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 2,
+            "first_publish_year": 2022,
+            "has_fulltext": false,
+            "key": "/works/OL26120277W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Character Pop"
+        },
+        {
+            "author_key": [
+                "OL7448214A"
+            ],
+            "author_name": [
+                "Kolektif"
+            ],
+            "cover_edition_key": "OL35589978M",
+            "cover_i": 12298092,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2018,
+            "has_fulltext": false,
+            "key": "/works/OL26354860W",
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL2853379A"
+            ],
+            "author_name": [
+                "Cedco Publishing"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2002,
+            "has_fulltext": false,
+            "key": "/works/OL8527333W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Lantern Journal (Harry Potter)"
+        },
+        {
+            "author_key": [
+                "OL2699880A"
+            ],
+            "author_name": [
+                "Elizabeth E. Heilman"
+            ],
+            "cover_edition_key": "OL7496574M",
+            "cover_i": 8046481,
+            "ebook_access": "printdisabled",
+            "edition_count": 9,
+            "first_publish_year": 2002,
+            "has_fulltext": true,
+            "ia": [
+                "criticalperspect0000unse_p7e1"
+            ],
+            "ia_collection": [
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL8104587W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Critical Perspectives on Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL3113071A"
+            ],
+            "author_name": [
+                "Collectif"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2001,
+            "has_fulltext": false,
+            "key": "/works/OL33807414W",
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL11271050A"
+            ],
+            "author_name": [
+                "Aspet Karapetyan"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2021,
+            "has_fulltext": false,
+            "key": "/works/OL30799263W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2007,
+            "has_fulltext": false,
+            "key": "/works/OL35298596W",
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL8371994A"
+            ],
+            "author_name": [
+                "Gold ATOM"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL22207810W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL2779428A",
+                "OL2822804A"
+            ],
+            "author_name": [
+                "Zzz",
+                "Bloomsbury Point Of Sale"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2000,
+            "has_fulltext": false,
+            "key": "/works/OL7961966M",
+            "public_scan_b": false,
+            "title": "Harry Potter Poster (Azkaban) (Harry Potter)"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL7515000M",
+            "cover_i": 4628630,
+            "ebook_access": "no_ebook",
+            "edition_count": 5,
+            "first_publish_year": 2003,
+            "has_fulltext": false,
+            "key": "/works/OL15267443W",
+            "language": [
+                "fre",
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter (series) 1-5"
+        },
+        {
+            "author_key": [
+                "OL9083347A"
+            ],
+            "author_name": [
+                "Lee Sartori"
+            ],
+            "cover_edition_key": "OL35718764M",
+            "cover_i": 12454357,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2021,
+            "has_fulltext": false,
+            "key": "/works/OL26436192W",
+            "public_scan_b": false,
+            "title": "Harry Potter : Crochet Wizardry | Crochet Patterns | Harry Potter Crafts"
+        },
+        {
+            "author_key": [
+                "OL2355327A",
+                "OL3139877A"
+            ],
+            "author_name": [
+                "Scholastic",
+                "Felicity Baker"
+            ],
+            "cover_edition_key": "OL27720881M",
+            "cover_i": 9149211,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2016,
+            "has_fulltext": false,
+            "key": "/works/OL20489643W",
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL6469446A",
+                "OL22127A"
+            ],
+            "author_name": [
+                "Suman Gupta",
+                "Suman Gupta"
+            ],
+            "cover_edition_key": "OL3682740M",
+            "cover_i": 752805,
+            "ebook_access": "printdisabled",
+            "edition_count": 2,
+            "first_publish_year": 2003,
+            "has_fulltext": true,
+            "ia": [
+                "rereadingharrypo0000gupt"
+            ],
+            "ia_collection": [
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL13610814W",
+            "language": [
+                "und",
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "RE-READING HARRY POTTER"
+        },
+        {
+            "author_key": [
+                "OL10130014A"
+            ],
+            "author_name": [
+                "Adam Raiti"
+            ],
+            "cover_edition_key": "OL36621977M",
+            "cover_i": 12516504,
+            "ebook_access": "printdisabled",
+            "edition_count": 1,
+            "first_publish_year": 2016,
+            "has_fulltext": true,
+            "ia": [
+                "harrypottermagic0000unse_u1t9"
+            ],
+            "ia_collection": [
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL27015800W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL2853379A"
+            ],
+            "author_name": [
+                "Cedco Publishing"
+            ],
+            "cover_i": 7242871,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2003,
+            "has_fulltext": false,
+            "key": "/works/OL8527328W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL9344201A"
+            ],
+            "author_name": [
+                "Insights"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 13,
+            "first_publish_year": 2023,
+            "has_fulltext": false,
+            "key": "/works/OL36099535W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL9662719A"
+            ],
+            "author_name": [
+                "Aldo Lombardo"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2021,
+            "has_fulltext": false,
+            "key": "/works/OL35878655W",
+            "language": [
+                "ita"
+            ],
+            "public_scan_b": false,
+            "title": "Colorazione Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL3030816A",
+                "OL12585223A"
+            ],
+            "author_name": [
+                "Jennifer Carroll",
+                "Alícia Astorza"
+            ],
+            "cover_edition_key": "OL47263236M",
+            "cover_i": 13714275,
+            "ebook_access": "no_ebook",
+            "edition_count": 2,
+            "first_publish_year": 2021,
+            "has_fulltext": false,
+            "key": "/works/OL34906128W",
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL3139877A"
+            ],
+            "author_name": [
+                "Felicity Baker"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 2,
+            "first_publish_year": 2016,
+            "has_fulltext": false,
+            "key": "/works/OL21826439W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL11283289A"
+            ],
+            "author_name": [
+                "Khadija Fathi"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL30842717W",
+            "language": [
+                "ita"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Impara a Disegnare"
+        },
+        {
+            "author_key": [
+                "OL9789230A"
+            ],
+            "author_name": [
+                "Aaron Stark"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2019,
+            "has_fulltext": false,
+            "key": "/works/OL30089960W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Jokes"
+        },
+        {
+            "author_key": [
+                "OL8494412A"
+            ],
+            "author_name": [
+                "Harry Choi"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL30607695W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Memes"
+        },
+        {
+            "author_key": [
+                "OL9650575A"
+            ],
+            "author_name": [
+                "Mallory Reault"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2021,
+            "has_fulltext": false,
+            "key": "/works/OL30907252W",
+            "language": [
+                "fre"
+            ],
+            "public_scan_b": false,
+            "title": "Coloriage Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL9649317A"
+            ],
+            "author_name": [
+                "Neri Valadez"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2021,
+            "has_fulltext": false,
+            "key": "/works/OL30883402W",
+            "language": [
+                "spa"
+            ],
+            "public_scan_b": false,
+            "title": "Coloración Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL11253487A"
+            ],
+            "author_name": [
+                "HAIKOUMA"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2021,
+            "has_fulltext": false,
+            "key": "/works/OL30867275W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "has_fulltext": false,
+            "key": "/works/OL31912166W",
+            "public_scan_b": false,
+            "title": "World of Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL2875727A"
+            ],
+            "author_name": [
+                "Jody Revenson"
+            ],
+            "cover_edition_key": "OL27217007M",
+            "cover_i": 9326743,
+            "ebook_access": "borrowable",
+            "edition_count": 1,
+            "first_publish_year": 2016,
+            "has_fulltext": true,
+            "ia": [
+                "harrypotterartif0000reve"
+            ],
+            "ia_collection": [
+                "hamiltonpubliclibrary-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL20036967W",
+            "language": [
+                "eng"
+            ],
+            "lending_edition_s": "OL27217007M",
+            "lending_identifier_s": "harrypotterartif0000reve",
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL8567733M",
+            "cover_i": 771812,
+            "ebook_access": "no_ebook",
+            "edition_count": 5,
+            "first_publish_year": 1999,
+            "has_fulltext": false,
+            "key": "/works/OL15267494W",
+            "language": [
+                "fre",
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter (series) 1-3"
+        },
+        {
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2001,
+            "has_fulltext": false,
+            "key": "/works/OL12956044M",
+            "language": [
+                "spa"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Ila Fortuna de Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL9544274A"
+            ],
+            "author_name": [
+                "Terrance Crawford"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2021,
+            "has_fulltext": false,
+            "key": "/works/OL25275688W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL2843145A"
+            ],
+            "author_name": [
+                "Running Press"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2016,
+            "has_fulltext": false,
+            "key": "/works/OL25179312W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "has_fulltext": false,
+            "key": "/works/OL35984185W",
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL8031086A"
+            ],
+            "author_name": [
+                "British Broadcasting Corporation Staff"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2006,
+            "has_fulltext": false,
+            "key": "/works/OL29352487W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL5791001A"
+            ],
+            "author_name": [
+                "S. Sherwood"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2019,
+            "has_fulltext": false,
+            "key": "/works/OL29855908W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL13711809A"
+            ],
+            "author_name": [
+                "J. K. Rofling"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2017,
+            "has_fulltext": false,
+            "key": "/works/OL38277794W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL14256959A"
+            ],
+            "author_name": [
+                "George Duckett"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2016,
+            "has_fulltext": false,
+            "key": "/works/OL40339544W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL8015310A"
+            ],
+            "author_name": [
+                "Daniel Radcliffe"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2015,
+            "has_fulltext": false,
+            "key": "/works/OL40151983W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2000,
+            "has_fulltext": false,
+            "key": "/works/OL37896490W",
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL14256959A"
+            ],
+            "author_name": [
+                "George Duckett"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2015,
+            "has_fulltext": false,
+            "key": "/works/OL41596120W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL8042442A"
+            ],
+            "author_name": [
+                "Sonia Falaschi-Ray"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2012,
+            "has_fulltext": false,
+            "key": "/works/OL21036988W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL2355327A"
+            ],
+            "author_name": [
+                "Scholastic"
+            ],
+            "cover_edition_key": "OL33842286M",
+            "cover_i": 14415723,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2021,
+            "has_fulltext": false,
+            "key": "/works/OL25275675W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Origami #2 (Harry Potter)"
+        },
+        {
+            "author_key": [
+                "OL11845334A"
+            ],
+            "author_name": [
+                "J. M. Dragunas"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2017,
+            "has_fulltext": false,
+            "key": "/works/OL44539717W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL9715278A"
+            ],
+            "author_name": [
+                "Titan Titan Books"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2017,
+            "has_fulltext": false,
+            "key": "/works/OL44539819W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2003,
+            "has_fulltext": false,
+            "key": "/works/OL11904407M",
+            "public_scan_b": false,
+            "title": "The Official Harry Potter Calendar (Harry Potter)"
+        },
+        {
+            "cover_edition_key": "OL12956014M",
+            "cover_i": 3345088,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2001,
+            "has_fulltext": false,
+            "key": "/works/OL12956014M",
+            "language": [
+                "spa"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL2853379A"
+            ],
+            "author_name": [
+                "Cedco Publishing"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2002,
+            "has_fulltext": false,
+            "key": "/works/OL8527335W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Three Friends Journal (Harry Potter)"
+        },
+        {
+            "author_key": [
+                "OL11259567A"
+            ],
+            "author_name": [
+                "flowers rimi"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL30761149W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Puzzle"
+        },
+        {
+            "author_key": [
+                "OL11193171A"
+            ],
+            "author_name": [
+                "rosa wiyous"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL30909562W",
+            "language": [
+                "ger"
+            ],
+            "public_scan_b": false,
+            "title": "Malbuch Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL9853715A"
+            ],
+            "author_name": [
+                "Joe Joe Kutch"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL36166525W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Cookbook"
+        },
+        {
+            "author_key": [
+                "OL23919A",
+                "OL1870372A",
+                "OL8006764A",
+                "OL12723972A"
+            ],
+            "author_name": [
+                "J. K. Rowling",
+                "Alicia Dellepiane Rawson",
+                "Adolfo Muñoz García",
+                "Nieves Martín Azofra"
+            ],
+            "cover_edition_key": "OL47553002M",
+            "cover_i": 14171961,
+            "ebook_access": "no_ebook",
+            "edition_count": 4,
+            "first_publish_year": 2022,
+            "has_fulltext": false,
+            "key": "/works/OL35166705W",
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL2703942A"
+            ],
+            "author_name": [
+                "Dena Neusner"
+            ],
+            "cover_edition_key": "OL7512834M",
+            "cover_i": 277766,
+            "ebook_access": "borrowable",
+            "edition_count": 1,
+            "first_publish_year": 2002,
+            "has_fulltext": true,
+            "ia": [
+                "harrypotterdelux0000dena"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL8120104W",
+            "language": [
+                "eng"
+            ],
+            "lending_edition_s": "OL7512834M",
+            "lending_identifier_s": "harrypotterdelux0000dena",
+            "public_scan_b": false,
+            "title": "Harry Potter Deluxe Journal #2 (Harry Potter)"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_i": 12288199,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2013,
+            "has_fulltext": false,
+            "key": "/works/OL21062595W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL7110962A"
+            ],
+            "author_name": [
+                "William Silvester"
+            ],
+            "cover_edition_key": "OL25280318M",
+            "cover_i": 12211101,
+            "ebook_access": "printdisabled",
+            "edition_count": 2,
+            "first_publish_year": 2010,
+            "has_fulltext": true,
+            "ia": [
+                "harrypottercolle0000silv"
+            ],
+            "ia_collection": [
+                "drakeuniversity-ol",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL16596927W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter collector's handbook"
+        },
+        {
+            "author_key": [
+                "OL12321082A"
+            ],
+            "author_name": [
+                "Insight Insight Editions"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 3,
+            "first_publish_year": 2025,
+            "has_fulltext": false,
+            "key": "/works/OL42423950W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Sculpted Journal"
+        },
+        {
+            "author_key": [
+                "OL9477851A"
+            ],
+            "author_name": [
+                ". Warner Bros. Consumer Products Inc."
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 2,
+            "first_publish_year": 2011,
+            "has_fulltext": false,
+            "key": "/works/OL25116224W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL23919A"
+            ],
+            "author_name": [
+                "J. K. Rowling"
+            ],
+            "cover_edition_key": "OL47350251M",
+            "cover_i": 13940470,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2012,
+            "has_fulltext": false,
+            "key": "/works/OL34986547W",
+            "language": [
+                "pol"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter 6 Harry Potter i Ksiaze Pólkrwi"
+        },
+        {
+            "author_key": [
+                "OL2875727A"
+            ],
+            "author_name": [
+                "Jody Revenson"
+            ],
+            "cover_edition_key": "OL27211161M",
+            "cover_i": 13437271,
+            "ebook_access": "printdisabled",
+            "edition_count": 1,
+            "first_publish_year": 2015,
+            "has_fulltext": true,
+            "ia": [
+                "harrypotterchara0000reve"
+            ],
+            "ia_collection": [
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL20031116W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter"
+        },
+        {
+            "author_key": [
+                "OL622143A"
+            ],
+            "author_name": [
+                "Philip Nel"
+            ],
+            "cover_edition_key": "OL3946564M",
+            "cover_i": 630449,
+            "ebook_access": "printdisabled",
+            "edition_count": 2,
+            "first_publish_year": 2001,
+            "has_fulltext": true,
+            "ia": [
+                "jkrowlingsharryp0000nelp"
+            ],
+            "ia_collection": [
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL3640215W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "J.K. Rowling's Harry Potter novels"
+        },
+        {
+            "author_key": [
+                "OL8373259A"
+            ],
+            "author_name": [
+                "Princeton Aurmand"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL30572209W",
+            "language": [
+                "ger"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Malbuch"
+        },
+        {
+            "author_key": [
+                "OL11289435A"
+            ],
+            "author_name": [
+                "Edric L. Granger"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL30865446W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Cocktails"
+        },
+        {
+            "author_key": [
+                "OL11222636A"
+            ],
+            "author_name": [
+                "Jake HOWARD"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL30661720W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Quizzes : Metal Perk"
+        },
+        {
+            "author_key": [
+                "OL7685480A"
+            ],
+            "author_name": [
+                "Sarah Tieck"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2010,
+            "has_fulltext": false,
+            "key": "/works/OL27094676W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Emma Watson : Harry Potter Star"
+        },
+        {
+            "author_key": [
+                "OL7685480A"
+            ],
+            "author_name": [
+                "Sarah Tieck"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2010,
+            "has_fulltext": false,
+            "key": "/works/OL27095539W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Daniel Radcliffe : Harry Potter Star"
+        },
+        {
+            "author_key": [
+                "OL8167783A"
+            ],
+            "author_name": [
+                "Garry Potter"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2016,
+            "has_fulltext": false,
+            "key": "/works/OL41204246W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Harry Potter Colouring Book"
+        },
+        {
+            "author_key": [
+                "OL7685480A"
+            ],
+            "author_name": [
+                "Sarah Tieck"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2010,
+            "has_fulltext": false,
+            "key": "/works/OL39142606W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Emma Watson : Harry Potter Star"
+        },
+        {
+            "author_key": [
+                "OL7685480A"
+            ],
+            "author_name": [
+                "Sarah Tieck"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2010,
+            "has_fulltext": false,
+            "key": "/works/OL39143662W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Daniel Radcliffe : Harry Potter Star"
+        }
+    ]
+}
